@@ -1,0 +1,5 @@
+/root/AndroidStudioProjects/Message_controller/app/build/intermediates/classes/debug
+/root/AndroidStudioProjects/Message_controller/app/build/intermediates/pre-dexed/debug/support-annotations-21.0.3-77286b450018c765668e673a0baa91c48ed88e84.jar
+/root/AndroidStudioProjects/Message_controller/app/build/intermediates/pre-dexed/debug/internal_impl-21.0.3-d45fda9de86449785c5c92b8268fb2934fc5b2ec.jar
+/root/AndroidStudioProjects/Message_controller/app/build/intermediates/pre-dexed/debug/classes-bf0058b238d9c90aab416d6088d4a241f01d06c3.jar
+/root/AndroidStudioProjects/Message_controller/app/build/intermediates/pre-dexed/debug/classes-045d85904d4bae2407a763c156325c367661964c.jar

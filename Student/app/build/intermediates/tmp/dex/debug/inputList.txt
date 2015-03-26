@@ -1,0 +1,5 @@
+/root/AndroidStudioProjects/Student/app/build/intermediates/classes/debug
+/root/AndroidStudioProjects/Student/app/build/intermediates/pre-dexed/debug/support-annotations-21.0.3-77286b450018c765668e673a0baa91c48ed88e84.jar
+/root/AndroidStudioProjects/Student/app/build/intermediates/pre-dexed/debug/internal_impl-21.0.3-b7b443c82406c954a3eb25f05d5eff3c13d57d0f.jar
+/root/AndroidStudioProjects/Student/app/build/intermediates/pre-dexed/debug/classes-82878db2ed8445dfb01718cb7cfa836794a29a93.jar
+/root/AndroidStudioProjects/Student/app/build/intermediates/pre-dexed/debug/classes-e65e1b31d6245e11929abb85188ce39612b099c0.jar

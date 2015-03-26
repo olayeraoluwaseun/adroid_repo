@@ -1,0 +1,5 @@
+/root/AndroidStudioProjects/Crimes/app/build/intermediates/classes/debug
+/root/AndroidStudioProjects/Crimes/app/build/intermediates/pre-dexed/debug/support-annotations-21.0.3-77286b450018c765668e673a0baa91c48ed88e84.jar
+/root/AndroidStudioProjects/Crimes/app/build/intermediates/pre-dexed/debug/internal_impl-21.0.3-1f548973bc9517c0e7a591c9555fb3b63a8adbaf.jar
+/root/AndroidStudioProjects/Crimes/app/build/intermediates/pre-dexed/debug/classes-77e2c8a216fb9f024f3edc59d0f151889c3aef8a.jar
+/root/AndroidStudioProjects/Crimes/app/build/intermediates/pre-dexed/debug/classes-62d0fafde5ae3efdc58094e396a631cc19ced121.jar

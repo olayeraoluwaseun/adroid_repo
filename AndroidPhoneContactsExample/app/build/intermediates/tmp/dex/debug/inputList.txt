@@ -1,0 +1,2 @@
+/root/AndroidStudioProjects/AndroidPhoneContactsExample/app/build/intermediates/classes/debug
+/root/AndroidStudioProjects/AndroidPhoneContactsExample/app/build/intermediates/pre-dexed/debug/support-v4-18.0.0-89ceda92875ab9dbed145556b5d456dc3415dd3e.jar

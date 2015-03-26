@@ -1,0 +1,5 @@
+/root/AndroidStudioProjects/PhoneSettings/app/build/intermediates/classes/debug
+/root/AndroidStudioProjects/PhoneSettings/app/build/intermediates/pre-dexed/debug/support-annotations-21.0.3-77286b450018c765668e673a0baa91c48ed88e84.jar
+/root/AndroidStudioProjects/PhoneSettings/app/build/intermediates/pre-dexed/debug/internal_impl-21.0.3-706fbd48c7692c3c639c08ebbeacd1b873174ecf.jar
+/root/AndroidStudioProjects/PhoneSettings/app/build/intermediates/pre-dexed/debug/classes-f20e39226eb57200ceb3a984eaad400cd0f9e425.jar
+/root/AndroidStudioProjects/PhoneSettings/app/build/intermediates/pre-dexed/debug/classes-d30c535f2f24f8600caf82425360f3e50fd6f7ab.jar

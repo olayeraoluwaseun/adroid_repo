@@ -1,0 +1,5 @@
+/root/AndroidStudioProjects/Webo_cms/app/build/intermediates/classes/debug
+/root/AndroidStudioProjects/Webo_cms/app/build/intermediates/pre-dexed/debug/support-annotations-21.0.3-77286b450018c765668e673a0baa91c48ed88e84.jar
+/root/AndroidStudioProjects/Webo_cms/app/build/intermediates/pre-dexed/debug/internal_impl-21.0.3-7b93900cbc544d3e637344488fc5f7c478531915.jar
+/root/AndroidStudioProjects/Webo_cms/app/build/intermediates/pre-dexed/debug/classes-17f2bde735a38ead581b7538a8794170c315b67d.jar
+/root/AndroidStudioProjects/Webo_cms/app/build/intermediates/pre-dexed/debug/classes-e814e321037437949cb6f64371ac1515bee402a6.jar

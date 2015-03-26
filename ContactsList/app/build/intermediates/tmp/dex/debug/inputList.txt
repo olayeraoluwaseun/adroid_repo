@@ -1,0 +1,4 @@
+/root/AndroidStudioProjects/ContactsList/app/build/intermediates/classes/debug
+/root/AndroidStudioProjects/ContactsList/app/build/intermediates/pre-dexed/debug/support-annotations-21.0.3-77286b450018c765668e673a0baa91c48ed88e84.jar
+/root/AndroidStudioProjects/ContactsList/app/build/intermediates/pre-dexed/debug/internal_impl-21.0.3-1776b5ff117f1b828c4161a496f640bd1efe96c7.jar
+/root/AndroidStudioProjects/ContactsList/app/build/intermediates/pre-dexed/debug/classes-12f9a603dd2aa32b96b9f025b1759a432df02576.jar
